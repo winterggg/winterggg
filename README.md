@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently learning Node.js
-- 😄 普通且自信
+- 😄 普通且自信。Ordinary yet confident.
