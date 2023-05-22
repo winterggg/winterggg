@@ -17,5 +17,6 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Node.js
 - 😄 普通且自信。Ordinary yet confident.
+- ⚡ 以终为始，以简驭繁，以行促决
 
 [Blog](https://www.winterg.site/) ~
